@@ -6,6 +6,7 @@
         {
             Console.WriteLine("Hello, World!");
             Console.WriteLine("Test result");
+            Console.WriteLine("Test result");
         }
     }
 }
